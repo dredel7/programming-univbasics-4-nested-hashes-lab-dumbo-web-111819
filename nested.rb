@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-programmer_hash[:programmer_hash.keys[0]][:]
+programmer_hash[programmer_hash.keys[0]]
 end
 
 def alan_kay_is_known_for
